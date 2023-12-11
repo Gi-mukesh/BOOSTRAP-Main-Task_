@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h5{
+    color: rgb(189, 19, 204);
+    text-decoration:underline;
+}
+p{
+    text-align: center;
+   color: crimson; 
+   cursor: all-scroll; 
+   border-radius: 20px;
+   text-decoration: overline;
+}
+h1{
+    width: auto;
+    color: chartreuse;
+    text-align: center;
+    text-decoration: underline;
+    cursor: cell;
+    background-color: rgb(250, 42, 42);
+}
+.paragraph{
+    background-color: red;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 10px;
+    color: cornsilk;
+}
+.card-title{
+    background-color: black;
+}
+p1{
+    background-color:blueviolet;
+    color:white;
+    text-align: center;
+}
+.carousel-inner{
+    width: 1500px;
+    border-radius: 20px;
+    margin-bottom: 70px;
+}
+.container img{
+    font-size: 24px;
+}
